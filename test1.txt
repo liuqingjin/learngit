@@ -7,4 +7,5 @@ Creating a new branch is quick
 Creating a new branch is quick AND simple.
 =======
 Creating a new branch is quick AND simple.
->>>>>>> featue1
+>>>>>>> 
+da si na ge mai ping guo de.
